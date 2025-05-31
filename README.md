@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 AI Mock Interview Web App
 
-## Getting Started
+A web application that simulates mock interviews using AI voice agents powered by VAPI and Google Gemini. Built with Next.js and styled with Tailwind CSS, this app leverages Firebase for authentication and data storage. It helps users practice interview questions interactively with AI-driven voice and text responses.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🎤 AI-powered voice interview simulation using VAPI and Google Gemini  
+- ⚡ Fast and responsive UI with Next.js and Tailwind CSS  
+- 🔥 Firebase for user authentication and Firestore database  
+- 🎯 Practice interview skills with real-time AI voice and text feedback  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tech Stack
 
-## Learn More
+- **Frontend:** Next.js, React19, Tailwind CSS  
+- **AI Voice & Language:** VAPI (AI Voice Agent), Google Gemini API  
+- **Backend / Services:** Firebase (Authentication, Firestore)  
+- **Version Control:** Git & GitHub  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📷 Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+> _Add screenshots or link to live demo if available_  
+Example:  
+https://prepwise-ie80xrvkl-ali-hamzas-projects-6151b9b7.vercel.app/sig
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Installation
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Hamza-star/ai_mock_interviews.git  
+   cd ai_mock_interviews  
