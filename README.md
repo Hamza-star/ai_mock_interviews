@@ -25,7 +25,7 @@ A web application that simulates mock interviews using AI voice agents powered b
 ## 📷 Demo
   
 Example:  
-https://prepwise-ie80xrvkl-ali-hamzas-projects-6151b9b7.vercel.app/sig
+https://prepwise-ie80xrvkl-ali-hamzas-projects-6151b9b7.vercel.app/sign-in
 
 ---
 
