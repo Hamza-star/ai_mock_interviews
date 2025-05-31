@@ -23,8 +23,7 @@ A web application that simulates mock interviews using AI voice agents powered b
 ---
 
 ## 📷 Demo
-
-> _Add screenshots or link to live demo if available_  
+  
 Example:  
 https://prepwise-ie80xrvkl-ali-hamzas-projects-6151b9b7.vercel.app/sig
 
@@ -35,4 +34,6 @@ https://prepwise-ie80xrvkl-ali-hamzas-projects-6151b9b7.vercel.app/sig
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Hamza-star/ai_mock_interviews.git  
-   cd ai_mock_interviews  
+   cd ai_mock_interviews
+   npm install
+   npm run dev  
